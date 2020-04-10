@@ -1,0 +1,17 @@
+int main(){
+
+para(i = 0; i < 10; i + +) c = 100;
+
+faca e = 30; enquanto(a || b);
+
+enquanto(f >= 90) b = a + 90 + 3 - 78;
+
+a = ! b;
+e = 7*9/10;
+a = 7 && 3;
+se(a && b)c = 10;senao b = 4*6;
+
+
+
+retorne 1;
+}

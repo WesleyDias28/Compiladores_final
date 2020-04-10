@@ -1,0 +1,6 @@
+int main(){
+    b = 1;
+    a = 10;
+    enquanto(a < b)b = b + 1;
+    retorne 1;
+}

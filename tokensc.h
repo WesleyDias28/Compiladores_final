@@ -1,0 +1,41 @@
+#include <stdio.h>
+
+#define AUTO 256
+#define PAUSA 257
+#define CASO 258
+#define CHAR 259
+#define CONST 260
+#define CONTINUE 261
+#define DEFAULT 262
+#define FACA 263
+#define DOUBLE 264
+#define SENAO 265
+#define ENUM 266
+#define EXTERN 267
+#define FLOAT 268
+#define PARA 269
+#define GOTO 270
+#define SE 271
+#define INT 272
+#define LONG 273
+#define REGISTER 274
+#define RETORNE 275
+#define SHORT 276
+#define SIGNED 277
+#define SIZEOF 278
+#define STATIC 279
+#define STRUCT 280
+#define ESCOLHA 281
+#define TYPEDEF 282
+#define UNION 283
+#define UNSIGNED 284
+#define VOID 285
+#define VOLATILE 286
+#define ENQUANTO 287
+#define ID 288
+#define NUM 289
+#define MAIORIGUAL 290
+#define MENORIGUAL 291
+#define COMPARACAO 292
+#define DIFERENCA 293
+
